@@ -3,7 +3,7 @@
 //  
 //
 //  Created by Кудинова Елизавета on 28.04.2026.
-//  Группа 12
+//  Группа 12   
 
 #include <gtest/gtest.h>
 #include <gmock/gmock.h>
